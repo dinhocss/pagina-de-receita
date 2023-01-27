@@ -90,6 +90,11 @@ body{
     height: 250px;
 }
 
+.subtitulo-instrucoes{
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
 /****************FOOTER****************/
 .container-footer{
     background-color: #ff6b28;
@@ -97,6 +102,7 @@ body{
     height: 50px;
     display: flex;
     align-content: center;
+    margin-top: 50px;
 }
 
 .p-footer{
